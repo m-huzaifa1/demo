@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-Author - Muhammad Huzaifa
+Author - Muhammad Huzaifa (Huzaifa)
